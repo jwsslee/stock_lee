@@ -26,9 +26,9 @@ APP_KEY = os.environ.get('X_APP_KEY')
 
 APP_SECRET = os.environ.get('X_APP_SECRET')
 
-CANO = os.environ.get('X_CANO')
+CANO = '50205776'
 
-ACNT_PRDT_CD = os.environ.get('X_ACNT_PRDT_CD')
+ACNT_PRDT_CD = '01'
 
 IS_PAPER = True            # True: 모의투자 / False: 실전(조회만 수행)
 CASH_REFERENCE_CODE = "005930"  # 주문가능현금 조회 기준 종목
