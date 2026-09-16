@@ -22,14 +22,6 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 from sklearn.model_selection import TimeSeriesSplit
 
 # ================= 사용자 설정: 아래 네 값을 직접 입력 =================
-APP_KEY = "PSppbXMaFVxvxHLBMB5XdVSiqsBEoEtmZZV4"
-
-APP_SECRET = "iCzvmevbaa67G+U1qMS84dJFVS8ONu1/H1cvJfMBxLcqfLA/BgvsJao1diHPhucvdL6AjfL9CncRXFDRJ0PfN0HT2vestmy94qAXkioKTkgXcILEhdR/di1qN4pLMZmooiXXM5OCn6ewzzid2TTxvZuCmmIxvibMTgivGw1IbDIbnBHnTtQ="
-
-CANO = "50205776"
-
-ACNT_PRDT_CD = "01"
-
 IS_PAPER = True            # True: 모의투자 / False: 실전(조회만 수행)
 CASH_REFERENCE_CODE = "005930"  # 주문가능현금 조회 기준 종목
 # ====================================================================
