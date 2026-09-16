@@ -22,7 +22,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 from sklearn.model_selection import TimeSeriesSplit
 
 # ================= 사용자 설정: 아래 네 값을 직접 입력 =================
-APP_KEY = os.environ.get("X_APP_KEY")
+APP_KEY = "PSppbXMaFVxvxHLBMB5XdVSiqsBEoEtmZZV4"
 
 APP_SECRET = os.environ.get("X_APP_SECRET")
 
